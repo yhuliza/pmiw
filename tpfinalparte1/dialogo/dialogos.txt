@@ -1,0 +1,16 @@
+'presiona para iniciar',
+'hombre: Es definitivo. Lo sentí, y lo sé. No habrá bombas, ni guerra, ni un grito. Simplemente se acabó. Se acabó, sin más.'
+  ' Lo sé. Es la única forma de que tenga sentido. Si no podemos luchar contra ello, debemos aceptarlo.',
+  ' ¡No! No puede ser tan simple. Tiene que haber una explicación, una causa. Alguna señal de que hay esperanza',
+  'hombre: Me alegra que pienses así. Anoche soñé con el mundo, y al final no era terrible. Escuché a las vecinas, ¿sabes? Dicen que es solo hoy. No hay mañana.',
+  'Tienes razón. Si es así, mantendremos la calma hasta el final. No hay que alterarse',
+  '¿Pero estamos seguros? No podemos simplemente dejar que pase. ¡Debemos hacer algo, por las niñas!',
+  'hombre:Nos quedan unas horas, nada más. Debe ser simple, ¿sabes? Limpio. Quizá un regalo de paz. ¿Qué haremos en este último tiempo?',
+  'Haremos lo que siempre hacemos. Mantenemos el orden. La rutina es nuestra última resistencia.',
+  'Tenemos un último deber con ellas. Dales el último consuelo. Es lo único que importa ahora'
+  'narrador: Ambos se acuestan tomados de la mano. La inmovilidad en la oscuridad es total. ',
+  'hombre: Un grifo goteando. Es lo último que escucharemos. ¿Qué piensas?',
+  'Sí. Es perfecto. Silencio. Y paz.',
+  'No. No es un final. No es el final para nosotros. No lo es.',
+  '¡No! ¡Tengo miedo! ¡Sácalo de aquí, no puedo!'
+'el final'
